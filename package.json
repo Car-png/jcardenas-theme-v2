@@ -1,0 +1,33 @@
+{
+    "name": "jcardenas-v2",
+    "displayName": "JCardenas(JEla-JCar) V2",
+    "description": "JCardenas(JEla-JCar)!! V2",
+    "version": "0.0.1",
+    "publisher": "JCardenasJEla-JCar",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Car-png/jcardenas-theme-v2"
+    },
+    "keywords": [
+        "Ela",
+        "ela",
+        "JEla",
+        "jela",
+        "jelajcar"
+    ],
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "JCardenas(JEla-JCar) V2",
+                "uiTheme": "vs-dark",
+                "path": "./themes/JCardenas(JEla-JCar)-V2-color-theme.json"
+            }
+        ]
+    }
+}
