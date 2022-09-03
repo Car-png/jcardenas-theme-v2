@@ -13,8 +13,15 @@
         "ela",
         "JEla",
         "jela",
-        "jelajcar"
+        "jelajcar",
+        "JCardenas",
+        "jcardenas",
+        "Cardenas",
+        "cardenas"
     ],
+
+    "icon": "Imgs/Melissa.png",
+
     "engines": {
         "vscode": "^1.66.0"
     },
